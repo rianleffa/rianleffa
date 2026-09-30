@@ -10,3 +10,4 @@ Trabalho há 4 anos com licitações e contratos públicos (Lei 14.133, PNCP, Li
 **Estudando agora:** Spring Boot 
 
 📫 [linkedin.com/in/rianleffa](https://linkedin.com/in/rianleffa)
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://linkedin.com/in/rianleffa)
